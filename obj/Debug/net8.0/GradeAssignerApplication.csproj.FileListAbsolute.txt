@@ -1,0 +1,14 @@
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\bin\Debug\net8.0\GradeAssignerApplication.exe
+C:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\bin\Debug\net8.0\GradeAssignerApplication.deps.json
+C:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\bin\Debug\net8.0\GradeAssignerApplication.runtimeconfig.json
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\bin\Debug\net8.0\GradeAssignerApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\bin\Debug\net8.0\GradeAssignerApplication.pdb
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.AssemblyInfoInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.AssemblyInfo.cs
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.csproj.CoreCompileInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\refint\GradeAssignerApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.pdb
+C:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\GradeAssignerApplication.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\osa\CsharpProject\GradeAssignerApplication\obj\Debug\net8.0\ref\GradeAssignerApplication.dll
